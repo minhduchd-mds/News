@@ -1,0 +1,59 @@
+/*===============
+
+        Name : MDS
+        Theme : Tin tức
+
+
+================*/
+/**/
+.color-00b0ff{
+    color: #00b0ff;
+    margin-left: 51px;
+    margin-top: 25px;
+    /* width: 15px; */
+    float: left;
+}
+.mb-2{
+    padding-top: 2rem;
+}
+.mb-3{
+    padding-top: 4rem;
+}
+.mb-4{
+    padding-top: 4rem;
+}
+
+
+/*--------Settings---------*/
+.font-coder,.font-size{
+    position: absolute;
+    z-index: 999;
+}
+.font-contaner{
+    position: absolute;
+    top: -80px;
+    left: 54px;
+    width: 310px;
+    z-index: 9000;
+}
+.font-contaner > ul.setting-menu {
+    /*height: 5rem;*/
+}
+.font-contaner >.col >  ul.setting-menu > li {
+    float: left;
+    margin: 0 9px;
+}
+.login{
+    padding-top: 5rem;
+}
+.login-from{
+
+}
+span.avatar-text{
+
+}
+/*===========Table=============*/
+img.img_table {
+    height: 50px;
+    width: 50px;
+}
